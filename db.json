@@ -142,18 +142,18 @@
   "mock_cart": [
     {
       "id": 1,
-      "itemName": "Carrot",
-      "itemPrice": "P25.00"
+      "productName": "Carrot",
+      "productPrice": "P25.00"
     },
     {
       "id": 2,
-      "itemName": "Potato",
-      "itemPrice": "P30.00"
+      "productName": "Potato",
+      "productPrice": "P30.00"
     },
     {
       "id": 3,
-      "itemName": "Onion",
-      "itemPrice": "P5.00"
+      "productName": "Onion",
+      "productPrice": "P5.00"
     }
   ]
 }
